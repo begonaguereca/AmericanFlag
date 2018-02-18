@@ -1,0 +1,60 @@
+
+body {
+  background-color: grey;
+
+}
+
+.wrapper {
+  display: flex;
+  flex-flow: row wrap;
+  font-weight: bold;
+  text-align: center;
+}
+
+.row {
+  display: flex;
+}
+
+
+.other {
+  width: 400px;
+}
+
+.blue {
+  background-color: blue;
+  height: 155px;
+  width: 200px;
+}
+
+.bottom {
+  width: 600px;
+}
+
+.white-stripe {
+  background-color: white;
+  height:26px;
+}
+
+.red-stripe {
+  background-color: red;
+  height:26px;
+}
+
+
+/* STARS DECORATION*/
+.fa-star {
+  color: white;
+  font-size:1px;
+}
+
+.six {
+  padding:0px 9px 0px 9px;
+}
+
+.five {
+  padding:0px 0px 0px 19px;
+}
+
+.top {
+  padding-top:3px
+}
